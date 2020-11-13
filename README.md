@@ -1,6 +1,9 @@
 # bay-area-home-price-predictions
 <img src="https://github.com/UrielV1/bay-area-home-price-predictions/blob/master/bay%20area%20home.png" alt="https://github.com/UrielV1/bay-area-home-price-predictions/blob/master/bay%20area%20home.png" width="600"/>
 
+## Project objective
+Predicting the price of bay area homes in San Fransisco
+
 ## Project description
 - A dataset of 11,330 records and 18 features is given
 - Main features: finishedsqft, bathrooms, zindexvalue         
